@@ -1,8 +1,8 @@
-# Unlock Premium Challenge
+# Premium Paywall
 
 ## Ringkasan 
 
-**Judul:** Unlock Premium Challenge
+**Judul:** Premium Paywall
 
 **Kategori:** Cryptographic Issues
 
